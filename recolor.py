@@ -67,4 +67,4 @@ for x in range(0, width - 1):
 # Shows the image
 i.show()
 
-input("Press a key to exit")
+input("Press any key to exit")
